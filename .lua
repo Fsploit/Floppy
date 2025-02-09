@@ -349,7 +349,7 @@ function Library:create()
 	Title.Position = UDim2.new(0.229, 0, 0.278, 0)
 	Title.Size = UDim2.new(0, 75, 0, 12)
 	Title.FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.SemiBold, Enum.FontStyle.Normal)
-	Title.Text = "Safe Mode"
+	Title.Text = "FROSTWARE ❄️"
 	Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Title.TextScaled = true
 	Title.TextSize = 14
